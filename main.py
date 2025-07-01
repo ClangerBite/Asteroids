@@ -1,11 +1,11 @@
 from re import A
 import pygame
 import sys
-from constants import *
-from player import Player
-from asteroid import Asteroid
-from asteroidfield import AsteroidField
-from shot import Shot
+from code.constants import *
+from code.player import Player
+from code.asteroid import Asteroid
+from code.asteroidfield import AsteroidField
+from code.shot import Shot
 
 def main():
     print("Starting Asteroids!")
