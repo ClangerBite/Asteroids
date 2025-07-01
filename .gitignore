@@ -1,6 +1,5 @@
 # Environments
-venv/
-.venv-Asteroids/
+.venv/*
 
 #Python
 __pycache__/
